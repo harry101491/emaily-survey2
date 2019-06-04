@@ -1,0 +1,18 @@
+{
+  "name": "emaily-survey2",
+  "version": "1.0.2",
+  "description": "Rewriting of the emaily survey application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Harshit Pareek",
+    "email": "hp1014@nyu.edu",
+    "url": "https://harry101491.github.io/portfolio/"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
